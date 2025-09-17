@@ -32,6 +32,8 @@ The game is available in two modes:
 
 3. No extra libraries are required. You're good to go! 🎉
 
+---
+
 ### ▶️ Running the Game
 
   1️⃣ Console Version
@@ -41,6 +43,8 @@ The game is available in two modes:
   2️⃣ GUI Version
    - cd gui
    - python tic_tac_toe_gui.py
+
+---
 
 ### 🛠 Data Structures & DSA Concepts Used
        
@@ -60,6 +64,8 @@ The game is available in two modes:
 #### Game Logic / Algorithm Design
   - Check for row, column, and diagonal matches.
   - Determine end-game scenarios efficiently.
+
+---
 
 ### 👨‍💻 Author
 
