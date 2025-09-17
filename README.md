@@ -46,18 +46,18 @@ The game is available in two modes:
        
   * This project incorporates several core DSA concepts:
   
-  # 2D Arrays (Lists of Lists)
+  2D Arrays (Lists of Lists)
   - Used to represent the Tic Tac Toe board.
   - Enables easy access and update of board cells.
-  # Loops
+  Loops
   - Iterating through rows and columns to check win conditions.
-  # Conditionals (if-else)
+  Conditionals (if-else)
   - Determine valid moves, wins, draws, and invalid inputs.
-  # Functions / Methods
+  Functions / Methods
   - Encapsulate logic for board display, move validation, and win     checking.
-  # Event-Driven Programming (GUI version)
+  Event-Driven Programming (GUI version)
   - Handling button clicks and updating the board dynamically.
-  # Game Logic / Algorithm Design
+  Game Logic / Algorithm Design
   - Check for row, column, and diagonal matches.
   - Determine end-game scenarios efficiently.
 
